@@ -12,7 +12,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=thallesanderson&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contribuições Repositorios
-![](https://github-contributor-stats.vercel.app/api?username=thallesanderson&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=thallesanderson&repo=thallesanderson%2FCurso_Dart_And_Flutter&description_lines_count=1&theme=github_dark_dimmed)](https://github.com/thallesanderson/Curso_Dart_And_Flutter)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thallesanderson&icon=2&color=1)](https://visitcount.itsvg.in)
