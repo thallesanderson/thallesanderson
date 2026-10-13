@@ -14,6 +14,9 @@
 ### 🔝 Top Contribuições Repositorios
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=thallesanderson&repo=thallesanderson%2FCurso_Dart_And_Flutter&description_lines_count=1&theme=github_dark_dimmed)](https://github.com/thallesanderson/Curso_Dart_And_Flutter)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=thallesanderson&repo=thallesanderson%2FGNU-LINUX&description_lines_count=1&theme=github_dark_dimmed)](https://github.com/thallesanderson/GNU-LINUX)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=thallesanderson&icon=2&color=1)](https://visitcount.itsvg.in)
 
