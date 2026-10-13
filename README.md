@@ -16,6 +16,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=thallesanderson&repo=thallesanderson%2FGNU-LINUX&description_lines_count=1&theme=github_dark_dimmed)](https://github.com/thallesanderson/GNU-LINUX)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=thallesanderson&repo=thallesanderson%2FSDI&description_lines_count=1&theme=github_dark_dimmed)](https://github.com/thallesanderson/SDI)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thallesanderson&icon=2&color=1)](https://visitcount.itsvg.in)
