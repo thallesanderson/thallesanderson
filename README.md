@@ -8,7 +8,7 @@
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=thallesanderson&layout=donut&langs_count=4&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=thallesanderson&layout=donut&langs_count=4&theme=github_dark_dimmed)
 
-### 🔝 Top Contribuições Repositorios
+### 🔝 Top Repository Contributions
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=thallesanderson&repo=thallesanderson%2FCurso_Dart_And_Flutter&description_lines_count=1&theme=github_dark_dimmed)](https://github.com/thallesanderson/Curso_Dart_And_Flutter)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=thallesanderson&repo=thallesanderson%2FGNU-LINUX&description_lines_count=1&theme=github_dark_dimmed)](https://github.com/thallesanderson/GNU-LINUX)
